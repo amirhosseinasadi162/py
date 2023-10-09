@@ -2,8 +2,8 @@
 import pandas as pd
 
 # %%
-df = pd.read_csv("weather_data.csv")
-df
+df1 = pd.read_csv("weather_data.csv")
+df1
 
 # %% [markdown]
 # # USING DICTIONARY
